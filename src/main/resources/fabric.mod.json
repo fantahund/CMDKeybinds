@@ -23,8 +23,8 @@
     ]
   },
   "depends": {
-    "fabricloader": ">=0.14.17",
+    "fabricloader": ">=0.15.11",
     "fabric": "*",
-    "java": ">=17"
+    "java": ">=21"
   }
 }
